@@ -17,7 +17,7 @@ This course provides a hands-on learning experience by using a real-world use ca
 6. [Module 6 - Database Model with the Service Repository Pattern](module_6/README.MD)
 7. [Module 7 - Handing GET Requests](module_7/README.MD)
 8. [Module 8 - Creational and Destructive Requests (POST, PUT, PATCH, DELETE)](module_8/README.MD)
-9. [Module 9 - Asynchronous CODE](module_8/README.MD)
+9. [Module 9 - Asynchronous Code](module_8/README.MD)
 10. [Module 10 - Documenting API with Swagger OpenAPI Spec](module_9/README.MD)
 11. [Module 11 - Validation](module_10/README.MD)
 12. [Module 12 - Global Error Handling](module_11/README.MD)
