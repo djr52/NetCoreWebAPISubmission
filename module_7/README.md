@@ -13,6 +13,7 @@ In this module you learn to handle HTTP GET requests in your application to retu
 - Parent/Child Relationships in Web API
 ## Hands On
 Create all of the GET requests for each system component to support the browsing and retrieval functions required by the system.
+#### Please submit a link to your git repository with a tag on the master branch that identifies this as the version / submission for module 7.
 ## Unit Content
 ### Video(s)
 ### Reading(s)

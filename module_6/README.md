@@ -12,6 +12,7 @@ In this module you learn to use Entity Framework to manage your database structu
 - Creating a Repository Manager
 ## Hands On
 Create a service for each management function of the system and create the required models, repositories, and repository manager functionality.  Create seed data and migrations using EF Core.  You are required to create tests in a test project for each of the system management functionalities.
+#### Please submit a link to your git repository with a tag on the master branch that identifies this as the version / submission for module 6.
 ## Unit Content
 ### Video(s)
 ### Reading(s)

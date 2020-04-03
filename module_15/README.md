@@ -13,6 +13,7 @@ In this module you learn to secure your API by implementing user authentication 
 - Role-Based Authorization
 ## Hands On
 Implement user authentication for your API and implement role-based authorization.  User should be assigned the role of authenticated user when they are created by default.  You will need to create an endpoint to assign a role of authenticated, staff, or admin to your user model.  You will need to add an endpoint for a user to view a section assignment they add, so they can view their score.  You will need to add an additional endpoint for editing the score of a section assignment, since only a staff or admin can edit the score.  Refer to the following permission matrix for the user authorization per role.
+#### Please submit a link to your git repository with a tag on the master branch that identifies this as the version / submission for module 15.
 ### Role Based Access Control (RBAC) Matrix Requirements
 |   | **Anonymous** | **Authenticated** | **Staff** | **Admin** |
 | --- | --- | --- | --- | --- |

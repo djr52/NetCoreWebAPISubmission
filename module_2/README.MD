@@ -6,8 +6,9 @@ In this module you learn relational database terminology, relationships, and con
 - Relationships: one-to-one, one-to-many, and many-to-many
 - Normalization
 ## Hands On
-Create an entity relationship diagram (ERD), database entity schema diagram, and data dictionary to support the business requirements described below.    For user roles and course roles you can create a static class to hold static configuration properties lists of allowed options.
-### Project Specifications
+Create an entity relationship diagram (ERD), (DERSD) database entity relationship schema diagram, and (DD) data dictionary to support the business requirements described below.    For user roles and course roles you can create a static class to hold static configuration properties lists of allowed options.  You can identify this as a virtual lookup table in your schema.
+#### Please upload the ERD, ERD, an DD you create here.
+### Project Module Service Specifications
 #### User Management
 - Purpose: The users that are members of the school
 - Fields: Username, Password, Email, Status, System Role ID, Created Date, Updated Date

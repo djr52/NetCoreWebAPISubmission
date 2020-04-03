@@ -9,6 +9,7 @@ In this module you learn to add a logging to your project that will help you dur
 - DI, IoC, and LoggerServiceTesting
 ## Hands-On
 Add the logging service to the project and submit it to GitHub
+#### Please submit a link to your git repository with a tag on the master branch that identifies this as the version / submission for module 5.
 ## Unit Content
 ### Video(s)
 ### Reading(s)
