@@ -24,3 +24,5 @@ This course provides a hands-on learning experience by using a real-world use ca
 13. [Module 13 - Common API Techniques](module_12/README.MD)
 14. [Module 14 - Content Negotiation](module_13/README.MD)
 15. [Module 15 - JWT, Identity, and Role Based Authentication (RBAC)](module_14/README.MD)
+## Final Project Submission Instructions
+Please submit a link to your git repository with a tag on the master branch that identifies this as the final project
