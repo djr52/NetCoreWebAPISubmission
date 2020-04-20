@@ -12,3 +12,4 @@ Create an API design document that describes each HTTP request that our school A
 ## Unit Content
 ### Video(s)
 ### Reading(s)
+* [How to design an API](https://hackernoon.com/restful-api-design-step-by-step-guide-2f2c9f9fcdbf)
