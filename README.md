@@ -1,7 +1,7 @@
 # Web API and Intermediate C#
 ## Course Overview
 This course teaches students to develop RESTful Web Service API using C# .Net Core.  Students learn to use a variety of concepts such as API design, database design, API development, and documentation.  Students gain hands on experience with C# .net Core, Postman, Swagger, Entity Framework Core, and SQL.
-##Course Project Description
+## Course Project Description
 In this course you will assume the role of a software developer working for a consulting company that has been contracted to develop technology to operate a new school.  The school currently has a limited budget; however, they expect to grow in the future and would like to use technology to make their school operate efficiently and support face-to-face and online courses.  In order to do this, they need a system to store, manage, and disseminate course and student information.   Eventually, the school would like to use this information system in a variety of ways such as an online course catalog, online course registration system, and develop a more full featured learning management system (LMS).
 ## Instructional Methodology
 This course provides a hands-on learning experience by using a real-world use case that requires students to learn concepts illustrated within the course's content and then apply these concepts to complete a substantive course project.  Each unit of the course has a hand-on assignment that builds up to the completion of the final project that students are required to turn in at the completion of the course.
