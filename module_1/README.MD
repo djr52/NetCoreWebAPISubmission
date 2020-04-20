@@ -10,3 +10,6 @@ Describe how an API for our school will be used to support the school’s busine
 ## Unit Content
 ### Video(s)
 ### Reading(s)
+* [How to design an API](https://hackernoon.com/restful-api-design-step-by-step-guide-2f2c9f9fcdbf)
+* [What is the open API spec?](https://en.wikipedia.org/wiki/OpenAPI_Specification)
+* [What is SOAP protocol?](https://www.guru99.com/soap-simple-object-access-protocol.html)
