@@ -10,8 +10,8 @@ Describe how an API for our school will be used to support the school’s busine
 #### Please upload the project description you write here.
 ## Unit Content
 ### Video(s)
-* [Part 1](https://youtu.be/Bl7cOey3Mvo)
-* [Part 2](https://youtu.be/c8zhL3a_5GU)
+* [Part 1](https://youtu.be/E1Xk5dk3Abc)
+* [Part 2](https://youtu.be/LGNkFTE3DI8)
 ### Reading(s)
 * [What is the open API spec?](https://en.wikipedia.org/wiki/OpenAPI_Specification)
 * [What is SOAP protocol?](https://www.guru99.com/soap-simple-object-access-protocol.html)
