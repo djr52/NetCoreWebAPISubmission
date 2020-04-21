@@ -9,7 +9,7 @@ This course provides a hands-on learning experience by using a real-world use ca
 - Assignments should be submitted to the course management system
 - Course content consists of videos, readings, code, and a project for each module.
 ## Course Content
-0. [Course Overview Video](https://youtu.be/lgLGkWFvLHs)
+0. [Course Overview Video](https://youtu.be/l5G5YHEkQ2I)
 1. [Module 1 - What is an API?](module_1/README.MD)
 2. [Module 2 - How to Design a Database: Crash Course](module_2/README.MD)
 3. [Module 3 - How to Design a REST API Web API](module_3/README.MD)
