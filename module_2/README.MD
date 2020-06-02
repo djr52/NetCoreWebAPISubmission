@@ -5,6 +5,12 @@ In this module you learn relational database terminology, relationships, and con
 - Terms: Database Server, Database, Table, Field, SQL, Query
 - Relationships: one-to-one, one-to-many, and many-to-many
 - Normalization
+
+## Unit Content
+### Video(s)
+### Reading(s)
+1. [How to create an ERD/DRD diagram](https://www.guru99.com/er-diagram-tutorial-dbms.html)
+
 ## Hands On
 Create an entity relationship diagram (ERD/DERD), and (DD) data dictionary to support the business requirements described below.    
 #### Please upload the ERD, and DD you create here.
@@ -58,7 +64,4 @@ Create an entity relationship diagram (ERD/DERD), and (DD) data dictionary to su
   - **R** etrieving one assignment submission in a section
   - **E** diting one assignment submission in a section
   - **D** eleting one assignment submission in section
-## Unit Content
-### Video(s)
-### Reading(s)
-1. (How to create an ERD/DRD diagram)[https://www.guru99.com/er-diagram-tutorial-dbms.html]
+
