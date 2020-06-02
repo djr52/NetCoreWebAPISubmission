@@ -6,8 +6,8 @@ In this module you learn relational database terminology, relationships, and con
 - Relationships: one-to-one, one-to-many, and many-to-many
 - Normalization
 ## Hands On
-Create an entity relationship diagram (ERD), (DERSD) database entity relationship schema diagram, and (DD) data dictionary to support the business requirements described below.    For user roles and course roles you can create a static class to hold static configuration properties lists of allowed options.  You can identify this as a virtual lookup table in your schema.
-#### Please upload the ERD, ERD, an DD you create here.
+Create an entity relationship diagram (ERD/DERD), and (DD) data dictionary to support the business requirements described below.    
+#### Please upload the ERD, and DD you create here.
 ### Project Module Service Specifications
 #### User Management
 - Purpose: The users that are members of the school
@@ -61,3 +61,4 @@ Create an entity relationship diagram (ERD), (DERSD) database entity relationshi
 ## Unit Content
 ### Video(s)
 ### Reading(s)
+1. (How to create an ERD/DRD diagram)[https://www.guru99.com/er-diagram-tutorial-dbms.html]
