@@ -17,6 +17,6 @@ In this module you learn REST API terminology, the HTTP protocol and how to desi
 * [JSON Explained with Detailed References](https://www.w3schools.com/js/js_json_intro.asp)
 
 ## Hands-On
-Create an Openm API Design Document using the Swagger Editor for Open API 3.0.  This spec will describe the REST API functionality that you need to expose your school database design as a REST API.  Include HTTP request methods and response codes.  You also need to create a definition of HTTP response codes for errors such as 404 Not Found and other common response codes that are sent when something goes wrong.
+Create an Openm API Design Document using the [Swagger Editor - Click To Use](http://editor.swagger.io/) for Open API 3.0.  This spec will describe the REST API functionality that you need to expose your school database design as a REST API.  Include HTTP request methods and response codes.  You also need to create a definition of HTTP response codes for errors such as 404 Not Found and other common response codes that are sent when something goes wrong.
 #### Please upload the API design document that you create to the learning management system.
 
