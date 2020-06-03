@@ -50,8 +50,7 @@ Create an entity relationship diagram (ERD/DERD), and (DD) data dictionary to su
   - **D** eleting one courses section
 #### Section Enrollment Management
 - Purpose: Allowing students and teachers to be assigned to courses
-- Fields: Section ID, User ID, Created Date, Updated Date
-- End Date
+- Fields: Section ID, User ID, Created Date, Updated Date, Start Date, End Date
 - BREAD Queries Requirements
   - **B** rowsing all course sections
   - **R** etrieving one course section
@@ -65,4 +64,3 @@ Create an entity relationship diagram (ERD/DERD), and (DD) data dictionary to su
   - **R** etrieving one assignment submission in a section
   - **E** diting one assignment submission in a section
   - **D** eleting one assignment submission in section
-
