@@ -7,7 +7,9 @@ In this module you learn REST API terminology, the HTTP protocol and how to desi
 - Open API Spec
 ## Unit Content
 ### Video(s)
+* [Module 3 Lecture](https://youtu.be/7lG-gc84vdI)
 ### Reading(s)
+* [Main thing to read it says just about everything you need to know](https://restfulapi.net)
 * [REST QUICK TIP OVERVIEW – Nice Summary of The Main Things to Consider](https://www.restapitutorial.com/lessons/restquicktips.html)
 * [A nice summary of basic HTTP Request Methods](https://www.restapitutorial.com/lessons/httpmethods.html)
 * [MA Good Summary of HTTP Protocol](https://www.tutorialspoint.com/http/http_quick_guide.htm)
