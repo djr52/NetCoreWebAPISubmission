@@ -3,6 +3,7 @@
 In this module you learn REST API terminology, the HTTP protocol and how to design an API using the Open API Specification (Swagger).  You will apply these concepts to develop documentation for your API that will be needed to guide the development of the project as you work through the course.
 ## Topics
 - HTTP
+- Message Formats (XML and JSON)
 - Open API Spec
 ## Unit Content
 ### Video(s)
