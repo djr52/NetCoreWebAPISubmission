@@ -8,9 +8,10 @@ In this module you learn relational database terminology, relationships, and con
 
 ## Unit Content
 ### Video(s)
+1.  [Instructor Video - Database Crash Course](https://youtu.be/Xj0UlRhyWE4)
 ### Reading(s)
 1. [How to create an ERD/DRD diagram](https://www.guru99.com/er-diagram-tutorial-dbms.html)
-
+2. [How to create a data dictionary (DD)(https://medium.com/@leapingllamas/data-dictionary-a-how-to-and-best-practices-a09a685dcd61)
 ## Hands On
 Create an entity relationship diagram (ERD/DERD), and (DD) data dictionary to support the business requirements described below.    
 #### Please upload the ERD, and DD you create here.
