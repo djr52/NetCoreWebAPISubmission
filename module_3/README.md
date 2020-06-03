@@ -55,8 +55,7 @@ Create an Openm API Design Document using the [Swagger Editor - Click To Use](ht
   - **D** eleting one courses section
 #### Section Enrollment Management
 - Purpose: Allowing students and teachers to be assigned to courses
-- Fields: Section ID, User ID, Created Date, Updated Date
-- End Date
+- Fields: Section ID, User ID, Created Date, Updated Date, Start Date, End Date
 - BREAD Queries Requirements
   - **B** rowsing all course sections
   - **R** etrieving one course section
