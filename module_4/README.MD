@@ -1,4 +1,4 @@
-# Project Setup
+# Module 4 - Project Setup
 ## Description
 In this module you learn to setup your project and configure it in Visual Studio.
 ## Topics:
