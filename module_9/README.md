@@ -12,6 +12,7 @@ In this module you learn to handle HTTP POST, PUT, PATCH, and DELETE requests in
 #### Please submit a link to your git repository with a tag on the master branch that identifies this as the version / submission for module 9.
 ## Unit Content
 ### Video(s)
+[Instructor Lecture](https://youtu.be/dhzbB_yL_K4)
 ### Reading(s)
 * [Article to go along with the video](https://code-maze.com/net-core-web-development-part6/)
 * [Related article on valdiation](https://code-maze.com/getting-started-with-asp-net-core-mvc/#DataAnnotations)
