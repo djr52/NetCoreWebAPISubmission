@@ -8,7 +8,7 @@
 
 [Module 3 Lecture](https://youtu.be/7lG-gc84vdI)
 
-Readings(s)
+## Readings(s)
 
 *   [Main thing to read it says just about everything you need to know](https://restfulapi.net/)
 
