@@ -1,5 +1,5 @@
 # How to Design a Database: Crash Course
-## Description
+## Overview
 In this module you learn relational database terminology, relationships, and concepts such as normalization.  You will use your knowledge to develop fundamental documentation for your project such as Entity Relationship Diagrams, Database Schema Diagrams, and a Data Dictionary.
 ## Topics
 - Terms: Database Server, Database, Table, Field, SQL, Query
