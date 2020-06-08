@@ -17,7 +17,7 @@ Create a new Web API project, configure it for the course project, and link your
 - [Module 4 Branch](https://github.com/kaw393939/SchoolAPI/tree/Module4)
 ## Unit Content
 ### Video(s)
-- https://youtu.be/6qX4CrH9AUQ
+- (Instructor Lecture with Module Code Walkthrough)[https://youtu.be/6qX4CrH9AUQ]
 ### Reading(s)
 - [Read this for a good overview with more detail than I present in the video and as a good reference](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-3.1&tabs=visual-studio)
 - [This is good for a detailed walk through of all the prjoects parts](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/?view=aspnetcore-3.1&tabs=macos)
