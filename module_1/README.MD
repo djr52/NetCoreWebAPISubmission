@@ -6,6 +6,8 @@ In this module you will learn what an API is and review two of the most common t
 - SOAP API
 - GraphQL API
 #### Please upload the project description you write here.
+An API for our school may be used to constantly transfer, post, or get student data. Student data may and will include year of graduation, current and total credits earned, current courses, etc. Other school data, such as available courses, will also be utilized within the API. An API would help in the development of creating a LMS for students to use so that they themselves may view their credits, courses, etc. For mobile uses, the app of an LMS can connect and use the schools API so that school and stuff will stay up-to-date on relevant course information, and their current statuses within those courses. A web application will function mostly the same way, except you will be able to actually register to available courses provided by the API. The API will be extendable, and other applications will easily obtained updated data about new/changed courses, or even new Majors. Course Registration will update accordingly to the new data provided by the REST API.
+
 ## Materials
 ### Video(s)
 * [Part 1](https://youtu.be/E1Xk5dk3Abc)
