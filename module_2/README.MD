@@ -15,6 +15,11 @@ In this module you learn relational database terminology, relationships, and con
 ## Hands On
 Create an entity relationship diagram (ERD/DERD), and (DD) data dictionary to support the business requirements described below.    
 #### Please upload the ERD, and DD you create here.
+[Module 2 ERD.pdf](https://github.com/djr52/NetCoreWebAPISubmission/files/6261775/Module.2.ERD.pdf)
+![image](https://user-images.githubusercontent.com/43587456/113653679-4b59bb80-9664-11eb-866a-cdbdaa293b41.png)
+
+
+
 ### Project Module Service Specifications
 #### User Management
 - Purpose: The users that are members of the school
